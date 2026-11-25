@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ex01_Arrays/Ex01_Arrays.csproj" />
+  <Project Path="Ex02_Matrices/Ex02_Matrices.csproj" Id="743d11d5-18f3-4005-bdb1-7e86b9115e95" />
+  <Project Path="Ex03_JaggedArrays/Ex03_JaggedArrays.csproj" Id="141cdda9-745d-4891-873b-432bbbff7f02" />
+  <Project Path="Ex04_Delegates/Ex04_Delegates.csproj" Id="66664af7-f8b2-4e2a-a5dd-43dc1af21708" />
+</Solution>
